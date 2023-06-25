@@ -1,5 +1,5 @@
 # Supply-Chain-Analysis
-Developed and implemented a supply chain analysis dashboard using Power BI for AtliQ Mart, a leading FMCG manufacturer, to enhance operational efficiency and customer service through data-driven insights. The objective was to address service issues and optimize supply chain performance before expanding to new cities.
+Developed a supply chain analysis dashboard using Power BI for AtliQ Mart, a leading FMCG manufacturer, to enhance operational efficiency and customer service through data-driven insights. The objective was to address service issues and optimize supply chain performance before expanding to new cities.
 
 ## Problem Statement
 AtliQ Mart is a growing FMCG (Fast-Moving Consumer Goods) manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
