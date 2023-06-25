@@ -18,10 +18,10 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 •	Create relevant insights not provided in the metric list/stakeholder meeting.
 
 ## Data Model
-![Data Model](https://github.com/harshmehta01/Hotel-Hospital-Analysis/assets/97782632/c1968c32-30a7-443d-bd13-9f4db16bd6f7)
+![Data Model](https://github.com/harshmehta01/Supply-Chain-Analysis/assets/97782632/a3bb23e7-31b4-4f81-bf0d-73b18b1888b0)
 
 ## Dashboard
-![Dashboard Image](https://github.com/harshmehta01/Hotel-Hospital-Analysis/assets/97782632/50334b3f-47a8-472f-af97-4873c8d75cbe)
+![Dashboard Image](https://github.com/harshmehta01/Supply-Chain-Analysis/assets/97782632/ee0a4175-cbec-439d-8e90-ac1cb98c0eac)
 
 ## Some Important insights from the dashboard:
 •	All the key metrics (OTIF%, OT%, IF%) are all far behind the Target.
